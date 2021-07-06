@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there! I’m Nirmal Mekala.👋🏾
 
-<!--
-**ndmekala/ndmekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught, front-end React ⚛️ developer with a background in education and the humanities. I like building responsive, user-centered sites and apps. [Read more](https://www.meka.la) at my portfolio site.
 
-Here are some ideas to get you started:
+Check out some of my work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Shopping Cart](https://ndmekala.github.io/shopping-cart-2)
+* [Queen’s Gambit Memory Game](https://ndmekala.github.io/memory)
+* [CV App](https://ndmekala.github.io/cvapp)
+
+Check out my writing:
+
+* [Are Programmers Lazy? 🧐](https://www.meka.la/garden/are-programmers-lazy)
+* [I Believe in Programming Principles 🧠](https://www.meka.la/garden/programming-principles-language-skills)
