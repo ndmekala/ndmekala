@@ -9,5 +9,5 @@ Check out some of my work:
 
 Check out my writing:
 
-* [Are Programmers Lazy? 🧐](https://www.meka.la/garden/are-programmers-lazy)
-* [I Believe in Programming Principles 🧠](https://www.meka.la/garden/programming-principles-language-skills)
+* [Are Programmers Lazy? 🧐](https://ndmekala.github.io/dev/are-programmers-lazy)
+* [I Believe in Programming Principles 🧠](https://ndmekala.github.io/dev/programming-principles-language-skills)
